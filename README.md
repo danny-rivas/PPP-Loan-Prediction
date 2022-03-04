@@ -1,2 +1,7 @@
 # PPP-Loan-Prediction
-UMD Info Challenge 2022
+University of Maryland, Info Challenge 2022
+Team 32: Danny Rivas, Javan Reuto
+## Abstract
+In response to 2020 COVID pandemic, Congress took the initiative to enact the Paycheck Protection Program that provided loans to small businesses in the US. The program aimed at retaining payrolls. The distribution of these loans was overseen by the Small Business Administration and administered by private lenders who would submit applications to the government. The SBA offers data on applicants; however, some applications that were previously in the data of 11.5 million applications were removed.
+Our goal for this project is primarily to investigate why some applications were removed from the data. We will first focus on characteristics such as business NAICS code, Low-Moderate Income (LMI) indicator, and HubZone indicator. In addition, we plan to explore how applicants varied in characteristics, such as race, income levels, and poverty levels. Given we don’t have these metrics in our original dataset, we will be adding it to compare to metrics that were given. Ultimately, we would like to know of the characteristics of businesses that were not able to benefit from the program.
+For this project, we will be using loans given in Georgia as well as data provided by US Census. We will use Python to clean and explore our data, Tableau to create visualizations, and R to predict why some data was removed.
