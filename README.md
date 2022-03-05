@@ -2,6 +2,9 @@
 University of Maryland, Info Challenge 2022
 
 Team 32: Danny Rivas, Javan Reuto
+## HTML Files
+[Analysis.htm]](https://github.com/danny-rivas/PPP-Loan-Prediction/blob/0e5753974908d202d2dfcc2d9e0c16c6ae0b12cd/IC22032_PPPGA_02_Analysis-2.html)
+
 ## Abstract
 
 In response to 2020 COVID pandemic, Congress took the initiative to enact the Paycheck Protection Program that provided loans to small businesses in the US. The program aimed at retaining payrolls. The distribution of these loans was overseen by the Small Business Administration and administered by private lenders who would submit applications to the government. The SBA offers data on applicants; however, some applications that were previously in the data of 11.5 million applications were removed.
